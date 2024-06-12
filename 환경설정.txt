@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 1.주피터노트북 설치
 pip install jupyter --trusted-host pypi.org --trusted-host files.pythonhosted.org
 
 2.패키지 설치 
+=======
+1.주피터노트북 설치
+pip install jupyter --trusted-host pypi.org --trusted-host files.pythonhosted.org
+
+2.패키지 설치 
+>>>>>>> ad095530116f5cf3ad7df0ba6af4b80aa6bd4886
 pip install pandas matplotlib seaborn pyautogui clipboard datetime pywinauto selenium requests bs4 opencv-python pillow openpyxl python-pptx nltk kiwipiepy textblob wordcloud squarify gensim scikit-learn tqdm afinn py_lex scipy dataframe_image --trusted-host pypi.org --trusted-host files.pythonhosted.org
